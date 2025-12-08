@@ -1,7 +1,7 @@
 Objective:
 Built a portfolio optimization framework using Mean–Variance (Markowitz) and CVaR (95%) tail-risk optimization to compare how risk definitions affect portfolio weights, expected returns, and downside risk. The goal is to identify how portfolios behave under normal conditions (variance-based) vs. extreme market stress (CVaR-based).
 
-Process (How the weights were allocated)
+Process
 
 Collected daily price data for AAPL, MSFT, GOOGL, AMZN and computed daily returns.
 
