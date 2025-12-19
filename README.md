@@ -1,6 +1,3 @@
-Project Overview:
-Designed and implemented a portfolio optimization framework comparing Mean–Variance (Markowitz) and CVaR (95%) optimization to evaluate how different risk definitions impact portfolio weights, expected returns, volatility, and downside tail risk.the project demonstrates how variance-based optimization performs in normal markets, while CVaR-based optimization better controls losses under extreme stress scenarios, aligning with investment risk management and drawdown control objectives.
-
 Objective:
 To assess how risk metric selection (volatility vs. tail risk) influences portfolio construction and resilience by:
 Minimizing portfolio variance under normal market conditions.
